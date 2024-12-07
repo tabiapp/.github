@@ -1,4 +1,7 @@
-# ![TABI Logo](logo.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tabiapp/.github/main/profile/logo.png" alt="Logo NutriKita" style="width: 20%;">
+  <h1>TABI (Travel & Bahasa Indonesia)</h1>
+</div>
 
 ---
 
