@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/tabiapp/.github/main/profile/logo.png" alt="Logo TABI" style="width: 30%;">
-  <h1>TABI (Travel & Bahasa Indonesia)</h1>
+  <h1>TABI (Travel & Bahasa Indonesia)</h1><p>Bringing Indonesia’s languages 
+and culture closer to you.<p>
 </div>
 
 ---
