@@ -15,8 +15,11 @@ According to Indonesia's Central Bureau of Statistics (BPS), approximately **8 m
 - **Seamless translation tools**
 - **Cultural insights** for meaningful interactions
 - **User-friendly design** to improve communication and promote cultural appreciation
-
 ---
+## Prototype
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tabiapp/.github/main/profile/tabi.png" alt="Logo TABI" style="width: 30%;">
+</div>
 
 ## Team Members - C242-PS286
 
