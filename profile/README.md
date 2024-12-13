@@ -41,7 +41,7 @@ According to Indonesia's Central Bureau of Statistics (BPS), approximately **8 m
 
 ### Download and Demo
 1. **Download the TABI app**: Available [here](#).
-2. **Watch the application demo video**: Click [here](#).
+2. **Watch the application demo video**: Click [here](https://drive.google.com/file/d/1jCobCC2KNB_URzomuM_4YHegSjQ4nSuE/view).
 
 ---
 
