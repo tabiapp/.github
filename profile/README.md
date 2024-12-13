@@ -40,7 +40,7 @@ According to Indonesia's Central Bureau of Statistics (BPS), approximately **8 m
 3. **[Android Development](https://github.com/tabiapp/Tabi-App):** Details about the mobile development of the TABI application.
 
 ### Download and Demo
-1. **Download the TABI app**: Available [here](#).
+1. **Download the TABI app**: Available [here](https://storage.googleapis.com/tabi-translate/tabi.apk).
 2. **Watch the application demo video**: Click [here](https://drive.google.com/file/d/1jCobCC2KNB_URzomuM_4YHegSjQ4nSuE/view).
 
 ---
